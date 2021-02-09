@@ -5,7 +5,7 @@
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)
-[![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
+[![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Henrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
 [![Medium Badge](https://img.shields.io/badge/-Henrique-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
@@ -69,6 +69,8 @@ Trabalho com
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Confluence Badge](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/-SQL-3CAFCE?style=flat-square&logo=Moleculer&logoColor=white)
 
 <h3>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
