@@ -4,10 +4,10 @@
 </h1>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
-<a href="https://www.linkedin.com/in/henriquemontagna/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-william-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
-[![Medium Badge](https://img.shields.io/badge/-william-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Henrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
+[![Medium Badge](https://img.shields.io/badge/-Henrique-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/henriquelamontagna/)](https://t.me/henriquelamontagna/)
 
 <!--Texto Rapido-->
