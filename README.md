@@ -12,7 +12,8 @@
 
 <!--Texto Rapido-->
 <h3>
-  "Seja bem vindo ao meu repositório GitHub! Aqui fica reunido alguns dos meu projetos realizados, tanto trabalho como estudo, a minha evolução diária em busca da senioridade e proficiência como programador."
+  "Welcome aboard(bem vindo a bordo) do meu repositório GitHub! Você encontrará alguns dos meu projetos realizados, tanto trabalho como estudo, espero que lhê seja útil ^-^
+  Aprendendo 1 conceito novo todo dia e 7 por semana, focando a melhoria e evolução diarias. Programar(muito) com qualidade e animação."
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
 
@@ -23,18 +24,17 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 <h3><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre mim</h3>
 <p>
-  Sou desenvolvedor fullstack, comecei minha jornada profissional ingressando na faculdade de Sistemas de Informação em 2018, atualmente estou trabalhando em projetos das squad de automações do Itaú Unibanco, Desenvolvendo aplicações para facilitar e automatizar os processos interno da empresa.
+  Sou Desenvolvedor Fullstack, comecei minha jornada profissional ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, atualmente trabalhando em projetos da squad da REDE/Itaú-Unibanco, Desenvolvendo APIs, Páginas WEB, Authorizes Python, etc... gerando valor, pra companhia e nossos valorosos clientes.
   </p>
 <p>
-  Meu hobby é pescar, sair com a familia e filhos e tenho conhecimentos em vendas, gosto de atuar tanto front-end como back-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de ler muitos livros de programação.
+  Meu hobby é estudar, , sair com a familia e filhos e tenho conhecimentos em vendas, gosto de atuar tanto front-end como back-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de ler muitos livros de programação.
   </p>
 <p>
   Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a automatizar seus processos, E atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
  <!--Estatistica Aqui-->
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=william&show_icons=true&theme=dracula)
-<p>Obs: utilizo a ferramenta da IBM RTC pra fazer o merge dos projetos atuais no trabalho.</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquemontagna&show_icons=true&theme=dracula)
 
   </p>
 </details>
@@ -101,7 +101,7 @@ Estou Interessado
 <!--Most Used Languages-->
 <p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamWHC&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemontagna&layout=compact)
 </p>
 <h2></h2>
 
