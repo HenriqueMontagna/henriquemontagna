@@ -113,8 +113,8 @@ Estou Interessado
 
 </p>
 
-
-<g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">🤺</g-emoji>
+  <h3>
+<g-emoji class="g-emoji" alias="esgrima" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">🤺</g-emoji>
 Tambem mexo
   </h3>
 <!--skill-->
