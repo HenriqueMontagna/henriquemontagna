@@ -5,6 +5,7 @@
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)
+[![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Henrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
 [![Medium Badge](https://img.shields.io/badge/-Henrique-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
@@ -13,7 +14,7 @@
 <!--Texto Rapido-->
 <h3>
   "Welcome aboard(bem vindo a bordo) do meu repositório GitHub! Você encontrará alguns dos meu projetos realizados, tanto trabalho como estudo, espero que lhê seja útil ^-^
-  Aprendendo 1 conceito novo todo dia e 7 por semana, focando a melhoria e evolução diarias. Programar(muito) com qualidade e animação."
+  Aprendendo 1 conceito novo todo dia e 7 por semana, sempre focando a melhoria e evolução diarias. Programar(muito) com qualidade e animação."
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
 
@@ -24,14 +25,14 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 <h3><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre mim</h3>
 <p>
-  Sou Desenvolvedor Fullstack, comecei minha jornada profissional ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, atualmente trabalhando em projetos da squad da REDE/Itaú-Unibanco, Desenvolvendo APIs, Páginas WEB, Authorizes Python, etc... gerando valor, pra companhia e nossos valorosos clientes.
+  Sou Desenvolvedor Fullstack, comecei em 2014 estudando Python, fazendo meus projetos pessoais e freelancer, e posteriormente ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, atualmente trabalhando em projetos da squad da REDE/Itaú-Unibanco, Desenvolvendo APIs, Páginas WEB, Authorizes Python, etc... gerando valor, pra companhia e nossos valorosos clientes.
   </p>
 <p>
-  Meu hobby é estudar, , sair com a familia e filhos e tenho conhecimentos em vendas, gosto de atuar tanto front-end como back-end também, por isso me considero fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS. Sou muito curioso, e gosto de ler muitos livros de programação.
+  Meu hobby é Mestrar RPGs, estudar, investir na bolsa, sair com a familia e namorada e e invariavelmente jogar. Tenho conhecimentos de modelagem e arquitetura. Tenho um certo foco em Java e cloud AWS, Back-end e Front-end é o que fazem minha jornada, por saber passar por esses processos considero-me Fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS.
   </p>
 <p>
-  Hoje estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a automatizar seus processos, E atrair mais clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing e a arte, cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
-Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+  Sempre estudando para evoluir minhas habilidades e ser capaz de criar soluções que gerem valor para as empresas em seus processos, tudo isso através de sistemas, aplicativos, web sites otimizados com SEO, etc... A união com a tecnologia vai ser sempre o melhor caminho, focando nos processos, conseguimos enxergar o que o cliente final passa e podemos assim entregar a melhor experiência possível!
+Um ponto crucial é sempre se divertir programando, sozinho e no trabalho, aceite opiniões, tire dúvidas, ensine e saiba ensinar.
  <!--Estatistica Aqui-->
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquemontagna&show_icons=true&theme=dracula)
