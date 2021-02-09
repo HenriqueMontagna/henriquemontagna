@@ -89,7 +89,7 @@ Trabalho com
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-compenents&logoColor=white)
+![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 
 <!--  TECNOLOGIAS ESPECIFICAS DE SQL
