@@ -76,6 +76,7 @@ Trabalho com
 ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Confluence Badge](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/-SQL-3CAFCE?style=flat-square&logo=Moleculer&logoColor=white)
+![Scrum Badge](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)
 
 <h3>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
