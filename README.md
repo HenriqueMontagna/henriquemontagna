@@ -4,7 +4,7 @@
 </h1>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
-[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)
+<a href="https://www.linkedin.com/in/henriquemontagna/" target="_blank">[![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)</a>
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-william-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
 [![Medium Badge](https://img.shields.io/badge/-william-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
