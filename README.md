@@ -5,7 +5,7 @@
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemontagna/)](https://www.linkedin.com/in/henriquemontagna/)
-[![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-blue?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
+[![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Henrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
 [![Medium Badge](https://img.shields.io/badge/-Henrique-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
