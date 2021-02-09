@@ -50,7 +50,7 @@ Trabalho com
 <p>
  
 <!-- ![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white) -->
-![Java Badge](https://img.shields.io/badge/-Java-239120?style=flat-square&logo=Java&logoColor=red)
+![Java Badge](https://img.shields.io/badge/-Java-FF6347?style=flat-square&logo=Java&logoColor=red)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
 ![.Net Framework](https://img.shields.io/badge/-Framework-5C2D91?style=flat-square&logo=.NET&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
