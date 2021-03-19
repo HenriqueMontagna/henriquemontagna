@@ -66,6 +66,7 @@ Trabalho com
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![NPM Badge](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -108,7 +109,6 @@ Estou Interessado
 <p>
  
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 
