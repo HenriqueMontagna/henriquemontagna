@@ -8,6 +8,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Henrique%20La%20Montagna-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)](https://www.youtube.com/channel/UC0AobaI1U6QrchgauR3rNQA)
 [![Gmail Badge](https://img.shields.io/badge/-henriquelamontagna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriquelamontagna@gmail.com)](mailto:henriquelamontagna@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Henrique-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrique_flm/)](https://www.instagram.com/henrique_flm/)
+[![StackOverflow Badge](https://img.shields.io/badge/-Henrique-F58025?style=flat-square&labelColor=F58025&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/16362411/henrique-la-montagna)](https://stackoverflow.com/users/16362411/henrique-la-montagna)
 [![Medium Badge](https://img.shields.io/badge/-Henrique-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/henriquelamontagna/)](https://t.me/henriquelamontagna/)
 
@@ -77,7 +78,9 @@ Trabalho com
 ![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Confluence Badge](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/-SQL-3CAFCE?style=flat-square&logo=Moleculer&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Scrum Badge](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
 <h3>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
@@ -85,8 +88,7 @@ Trabalho com
 </h3>
 <!--skill-->
 <p>
- 
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
@@ -127,7 +129,6 @@ Tambem mexo
 ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![Office Badge](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 </p>
