@@ -27,14 +27,15 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 <h3><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre mim</h3>
 <p>
-  Sou Desenvolvedor Fullstack, comecei em 2014 estudando Python, fazendo meus projetos pessoais e freelancer, e posteriormente ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, atualmente trabalhando em projetos da squad da REDE/Itaú-Unibanco, Desenvolvendo APIs, Páginas WEB, Authorizes Python, etc... gerando valor, pra companhia e nossos valorosos clientes.
+  Sou Desenvolvedor Fullstack, comecei em 2014 estudando Python, fazendo meus projetos pessoais e freelancer, e posteriormente ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, atuei em projetos numa Squad da REDE/Itaú-Unibanco, Desenvolvendo APIs Java, Páginas WEB, Authorizers Python, AWS, Mensageria, IaC(Infraestructure as Code), etc... gerando valor, pra companhia e nossos valorosos clientes. ;D
+  E atualmente trabalho numa Squad da PicPay como Software Engineer #PicPayLover
   </p>
 <p>
-  Meu hobby é Mestrar RPGs, estudar, investir na bolsa, sair com a familia e namorada e e invariavelmente jogar. Tenho conhecimentos de modelagem e arquitetura. Tenho um certo foco em Java e cloud AWS, Back-end e Front-end é o que fazem minha jornada, por saber passar por esses processos considero-me Fullstack porque consigo passar por todos esses processos, gosto de DevOps também utilizando a AWS.
+  Meu hobby é Mestrar RPGs, estudar, investir na bolsa, sair com a familia e amigos, e invariavelmente jogar. Tenho conhecimentos de modelagem e arquitetura, sempre que possivel trago documentação UML no meu dia a dia. Tenho um certo foco em Java e cloud AWS, Back-end e Front-end é o que fazem minha jornada! Gosto de DevOps também, principalmente utilizando a AWS.
   </p>
 <p>
-  Sempre estudando para evoluir minhas habilidades e ser capaz de criar soluções que gerem valor para as empresas em seus processos, tudo isso através de sistemas, aplicativos, web sites otimizados com SEO, etc... A união com a tecnologia vai ser sempre o melhor caminho, focando nos processos, conseguimos enxergar o que o cliente final passa e podemos assim entregar a melhor experiência possível!
-Um ponto crucial é sempre se divertir programando, sozinho e no trabalho, aceite opiniões, tire dúvidas, ensine e saiba ensinar.
+  Sempre estudando para evoluir minhas habilidades e ser capaz de criar soluções que gerem valor para as empresas em seus negócios, tudo isso através de sistemas, aplicativos, web sites otimizados com SEO, APIs, etc... A união com a tecnologia vai ser sempre o melhor caminho, focando nos processos, conseguimos enxergar o que o cliente final passa, e podemos assim entregar a melhor experiência possível!
+  Um ponto crucial é sempre se divertir programando, sozinho e no trabalho, aceite opiniões, tire dúvidas, ensine e saiba ensinar.
  <!--Estatistica Aqui-->
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriquemontagna&show_icons=true&theme=dracula)
@@ -89,7 +90,7 @@ Trabalho com
 <!--skill-->
 <p>
 
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux Badge](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white)
@@ -110,8 +111,9 @@ Estou Interessado
 <!--skill-->
 <p>
  
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+<!-- ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) -->
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
 
 
 </p>
