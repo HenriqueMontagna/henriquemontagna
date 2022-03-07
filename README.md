@@ -142,6 +142,7 @@ Tambem mexo
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemontagna&layout=compact)
 </p>
+
 <h2></h2>
 
 <h3>
@@ -163,6 +164,13 @@ Tambem mexo
     <a href="https://www.urionlinejudge.com.br/judge/en/login" rel="nofollow">URI Online Judge</a>
   </li>
 </ul> 
+
+<h2></h2>
+
+
+<h3>:octocat: Visitor Count</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/HenriqueMontagna/count.svg)
 
 
 <!--
