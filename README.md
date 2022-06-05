@@ -83,9 +83,11 @@ Trabalho com
 ![Confluence Badge](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/-SQL-3CAFCE?style=flat-square&logo=Moleculer&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 ![Scrum Badge](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 
 <h3>
   <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
@@ -95,7 +97,8 @@ Trabalho com
 <p>
 
 
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
+ 
 <!--  TECNOLOGIAS ESPECIFICAS DE SQL
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -110,8 +113,9 @@ Estou Interessado
 <!--skill-->
 <p>
  
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Karate](https://img.shields.io/badge/-Karate-000000?style=flat-square&logo=Private%20Internet%20Access&logoColor=white)
 <!-- ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) -->
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-316AE0?style=flat-square&logo=kubernetes&logoColor=white)
 
 </p>
 
