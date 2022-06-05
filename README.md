@@ -65,6 +65,7 @@ Trabalho com
 ![Java Badge](https://img.shields.io/badge/-Java-E42d2C?style=flat-square&logo=Java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
+![Intellij IDE Badge](https://img.shields.io/badge/-Intellij%20IDE-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width:100%;"></a>
 ![Gitlab](https://img.shields.io/badge/-Gitlab-330F63?style=flat-square&logo=gitlab&logoColor=fff)
