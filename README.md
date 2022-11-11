@@ -16,7 +16,7 @@
 <!--Texto Rapido-->
 <h3>
   "Welcome aboard(bem vindo a bordo) do meu repositório GitHub! Você encontrará alguns dos meu projetos realizados, tanto trabalho como estudo, espero que lhê seja útil ^-^
-  Aprendendo 1 conceito novo todo dia e 7 por semana, sempre focando a melhoria e evolução diarias. Programar(muito) com qualidade e animação."
+  Aprendendo 1 conceito novo todo dia e 7 por semana, sempre focando a melhoria e evolução diarias. Programar(muito) com qualidade e satisfação."
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
 
@@ -27,17 +27,20 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 <h3><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre mim</h3>
 <p>
-  Sou Desenvolvedor Fullstack, comecei em 2012 com Python, fazendo meus projetos pessoais e freelancer, e fiquei com tal chapéu até 2019, onde iniciei a obtenção do diploma, ingressando na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em 2019, e formado em 2021 em Análise e Desenvolvimento de Sistemas. Atuei em diversos projetos na área bancária como consultor, dentre esses, passei bastante tempo numa Squad da REDE/Itaú-Unibanco, Desenvolvendo APIs Java, Páginas WEB, Authorizers Python, AWS, Mensageria, IaC(Infraestructure as Code), etc... gerando valor, pra companhia e nossos valorosos clientes. ;D
-  E atualmente trabalho numa Squad da PicPay como Software Engineer #PicPayLover, atuando em várias frentes, Criação de Microsserviços/APIs Spring, Arquitetura Orientada a Eventos, Documentações, UML, Infraestrutura de Messageria(Kafka e afins), de Banco de Dados NoSQL(MongoDB), Observabilidade das Aplicações, Integração com Serviços com New Relic, Metabase, OpsDash, Kubernets c/ Helm-Charts, Resolução de Problemas Críticos/Incidentes nas Aplicações e etc... (se você deseja saber mais, me mande uma mensagem ;D)  
+  Atuo como Engenheiro/Desenvolvedor de Software Especialista, estou na área há mais de 10 anos, ingressei como consultor em 2012 com meus projetos pessoais e freelancer, nessa trajetória trabalhei com diversas técnologias e áreas distintas, sou graduado na FATEC(Faculdade de Tecnologia do Estado de São Paulo) em Análise e Desenvolvimento de Sistemas. Atuei em vários projetos como consultor na área bancária/financeira para os principais bancos/instituições de pagamentos, como destaque passei um tempo no Itaú-Unibanco/REDE, Desenvolvendo APIs Java, Páginas WEB(Angular/React), Authorizers Python, AWS, Mensageria, IaC(Infraestructure as Code), etc... gerando valor, pra companhia com foco no cliente. ;D
+
+  Também como referencial, trabalhei na PicPay como Software Engineer #PicPayLover, atuando em várias frentes, Criação de Microsserviços/APIs Spring, Arquitetura Orientada a Eventos, Documentações, UML, Infraestrutura de Messageria(Kafka e afins), de Banco de Dados NoSQL(MongoDB), Observabilidade das Aplicações, Integração com Serviços com New Relic, Metabase, OpsDash, Kubernets c/ Helm-Charts, Resolução de Problemas Críticos/Incidentes nas Aplicações e etc... Inovando e fazendo diferença no dia a dia de pagamento de milhões de brasileiros (se você deseja saber mais, me mande uma mensagem ;D)
+
+  Atualmente sigo meus desafios como Software Engineer Specialist no Grupo Boticário, atendendo as principais marcas do grupo(O Boticário, Quem disse berenice?, Eudora, etc..). E vamos nessa!!
   </p>
   <p>
-   Tenho conhecimentos de modelagem e arquitetura, sempre que possivel trago documentação UML no meu dia a dia. Tenho um certo foco em Java e Cloud AWS, Back-end é minha especialização, mas o Front-end também faz parte da minha jornada e fazem parte de quem eu sou! Gosto de DevOps também, principalmente utilizando a AWS. E alguns apps mobile desenvolvidos haha (Don't limit yourself)
+   Tenho conhecimentos de modelagem e arquitetura, sempre que possivel trago documentação UML no meu dia a dia. Tenho um certo foco em Java e Cloud AWS, Back-end é minha especialização, mas o Front-end também faz parte da minha jornada e fazem parte de quem eu sou! Gosto de DevOps também. E não obstante, alguns apps mobile desenvolvidos haha (Don't limit yourself).
   </p>
 <p>
   Meu hobby é Mestrar RPGs, estudar, investir na bolsa, sair com a familia e amigos, ir na academia(mens sana in corpore sano), e invariavelmente jogar.
   </p>
 <p>
-  Sempre estudando para evoluir minhas habilidades e ser capaz de criar soluções que gerem valor para as empresas em seus negócios, tudo isso através de sistemas, microsserviços, aplicativos, web sites otimizados com SEO, APIs, e muito mais... A união com a tecnologia vai ser sempre o melhor caminho, focando nos processos, conseguimos enxergar o que o cliente final passa e precisa, podendo assim entregar a melhor experiência possível!
+  Sempre estudando para evoluir minhas habilidades e ser capaz de criar soluções que gerem valor para as empresas em seus negócios, tudo isso através de sistemas, microsserviços, aplicativos, web sites otimizados, APIs, e muito mais... A união com a tecnologia vai ser sempre o melhor caminho, focando nos processos, conseguimos enxergar o que o cliente final passa e precisa, podendo assim entregar a melhor experiência possível!
   Um ponto crucial é sempre se divertir programando, sozinho e no trabalho, aceite opiniões, tire dúvidas, ensine e saiba ensinar.
  <!--Estatistica Aqui-->
  
