@@ -19,7 +19,7 @@
   <p>🇺🇸 Welcome aboard my GitHub! For over 12 years working with software, solving problems and helping companies and their teams achieve excellence through technology.<g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji></p>
 </h3>
 <h4>
-  <p>Sinta-se a vontade para entrar em contato comigo e exporar os códigos por aqui, espero que lhê seja útil ^-^</p>
+  <p>Sinta-se a vontade para entrar em contato comigo e explorar os códigos por aqui, espero que lhê seja útil ^-^</p>
   <p>Aprendendo 1 conceito novo todo dia e 7 por semana, sempre focando a melhoria e evolução contínua. Ajudar a desenvolver softwares, pessoas e organizações com qualidade e satisfação é minha missão."</p>
 </h4>
 
