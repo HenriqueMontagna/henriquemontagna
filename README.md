@@ -15,8 +15,8 @@
 
 <!--Texto Rapido-->
 <h3>
-  <p>🇧🇷 Bem vindo a bordo do meu GitHub! Há mais de 12 anos atuando com software, resolvendo problemas e ajudando empresas e seus times a atingirem a excelência através da tecnologia.<g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji></p>
-  <p>🇺🇸 Welcome aboard my GitHub! For over 12 years working with software, solving problems and helping companies and their teams achieve excellence through technology.<g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji></p>
+  <p>🇧🇷 Bem vindo a bordo do meu GitHub! Há mais de 14 anos atuando com software, resolvendo problemas e ajudando empresas e seus times a atingirem a excelência através da tecnologia.<g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji></p>
+  <p>🇺🇸 Welcome aboard my GitHub! For over 14 years working with software, solving problems and helping companies and their teams achieve excellence through technology.<g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji></p>
 </h3>
 <h4>
   <p>Sinta-se a vontade para entrar em contato comigo e explorar os códigos por aqui, espero que lhê seja útil ^-^</p>
